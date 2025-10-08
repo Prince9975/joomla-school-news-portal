@@ -1,0 +1,11 @@
+# Joomla sensitive and temp files
+configuration.php
+/logs/
+/tmp/
+/cache/
+/administrator/cache/
+/images/banners/
+*.bak
+*.zip
+*.tar.gz
+*.sql
